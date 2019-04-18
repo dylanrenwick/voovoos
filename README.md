@@ -26,4 +26,5 @@ No! Of course not, that's the point.
 
 ## Code atoms
 
-Look at the end of `voovoos.js` to see all the accepted code atoms and what they do. Anything that is not a valid code atom is a no-op
+Look at the end of `voovoos.js` to see all the accepted code atoms and what they do. Anything that is not a valid code atom is a no-op  
+New atoms are super easy to add if you're at all familiar with basic JS syntax and lambdas. Please, please, **please**, submit PRs to add more atoms, lord knows I won't be adding any more :P
